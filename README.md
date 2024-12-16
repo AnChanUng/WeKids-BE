@@ -85,7 +85,7 @@
 ![위키지-개발 drawio (1) drawio](https://github.com/user-attachments/assets/933fee17-67d0-40a4-bf14-b16b6b3ea10f)
 
 ### 운영인프라
-![위키지-운영 drawio (4) drawio (1)](https://github.com/user-attachments/assets/56f5fd16-c073-4f6b-8709-e0f2a37473b8)
+![위키지-운영 drawio (4) drawio (1) (2)](https://github.com/user-attachments/assets/3bdba840-b03e-4de5-82af-a27b221d78dc)
 
 
 
